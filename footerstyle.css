@@ -1,0 +1,18 @@
+footer {
+  position: relative;
+  top: 440px;
+  background: #111;
+  padding: 30px 0;
+}
+footer .footer-nav small {
+  color: #999;
+  font-size: 20px;
+  line-height: 30px;
+  margin-right: 30px;
+}
+
+
+.wrapper {
+  margin: 0 auto;
+  width: 1200px;
+}
